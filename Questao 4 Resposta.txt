@@ -1,0 +1,24 @@
+Para solucionar o problema da questão 4 podemos utilizar a fórmula da distancia (Distancia = velocidade/ tempo)
+
+Sabendo que a distância entre Ribeirão e Franca é de 100km, podemos assim calcular o tempo que o veiculo levará para percorrer essa distancia.
+
+Tempo Carro = distancia/ velocidade Carro -> 100/110 = 0,91 horas
+
+Tempo Caminhão = distancia/ velocidade Caminhão -> 100/80 = 1,25 horas
+
+Levando em conta que o caminhão leva 5 minutos a mais para passar em cada um dos pedagios e são 2 pedagios. Temos 10min extra ou aproximadamente 0,166667 horas. 
+
+Tempo Caminhão = Tempo Caminhão + pedagios -> 1,25 + 0,166667 = 1,416667 horas -> aproximadamente 1,42 horas, assim o caminhão possui velocidade media de 70,6km/h
+
+Para determinar o ponto de encontro podemos igualar ambas equações em relação ao tempo e levando em conta que o caminhão sai de um local da posição do km 100, temos:
+
+
+distancia/velocidade carro = (distancia - 100)/-velocidade caminhao ->
+-> d/100 = (d-100)/-70,6 -> d ~=  58,6 km (ponto de encontro)
+
+
+Importate adicionar a informação que ao ler a questão já é possivel deduzir que ambos estarão na mesma distancia de Ribeirão no ponto de encontro, sendo a diferença apenas que o carro está indo no sentido de ribeirão e o caminhão não.
+
+
+
+
